@@ -1,4 +1,4 @@
-package com.alamin.alamin_bank;
+package com.alamin.bank;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
